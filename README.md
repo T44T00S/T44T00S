@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**T44T00S/T44T00S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Whats up 👋
 
 Something 'bout me:
 
@@ -13,4 +10,4 @@ Something 'bout me:
 - 📫 How to reach me: Instagram - martinek_pp, Facebook - Petr Martínek, Discord - T44T00S#6969.
 - 😄 Pronouns: I hate things about pronouns, LGBT...
 - ⚡ Fun fact: I'm really short.
--->
+
