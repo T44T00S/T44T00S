@@ -1,4 +1,4 @@
-### Whats up 👋
+### Whats up, I'm Peter 👋
 
 Something 'bout me:
 
