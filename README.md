@@ -3,7 +3,7 @@
 Something 'bout me:
 
 - 🔭 I’m currently working on getting better in HTML, CSS and getting into good physical condition.
-- 🌱 I’m learning C#, HTML, CSS and workouting.
+- 🌱 I’m learning C#, HTML, CSS, SASS and workouting.
 - 👯 I’m looking to collaborate on creating web pages.
 - 🤔 I’m would really appreciate help with programming in C# (really desperate), HMTL and CSS.
 - 💬 Ask me about what you want.
